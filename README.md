@@ -49,7 +49,7 @@ Geolocated and mapped 100+ projects funded through the Community Preservation Ac
 
 **Tools Used:** ArcGIS Pro · ArcGIS Online · ArcGIS StoryMaps · Excel
 
-**[View Project](https://arcg.is/qX8G5)**
+**[View Project](https://storymaps.arcgis.com/stories/97e90b2559804cc8bdd1a731b5f95ab3)**
 
 <img width="543" height="305" alt="Screenshot 2026-03-16 150718" src="https://github.com/user-attachments/assets/fd36e02f-d7bc-4fcc-a7b5-b80273fdd6dc" />
 
