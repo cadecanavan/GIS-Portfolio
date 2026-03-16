@@ -55,14 +55,17 @@ Geolocated and mapped 100+ projects funded through the Community Preservation Ac
 
 ---
 
-### 3. Map Gallery
-A collection of maps created throughout coursework and independent projects, showcasing cartographic design and spatial storytelling.
+### 3. Food Access & Farmers Markets — Greater Boston, MA
+**Salem State University — GPH304**
 
-| Map | Description | Tools |
-|-----|-------------|-------|
-| *Coming Soon* | Add your map title here | ArcGIS Pro |
-| *Coming Soon* | Add your map title here | ArcGIS Pro |
-| *Coming Soon* | Add your map title here | ArcGIS Online |
+Analyzed spatial relationships between USDA-designated Low Income, Low Access (LILA) census tracts and farmers market locations across Greater Boston. Joined demographic data from the 2020 Census to census tract boundaries using FIPS codes via Power Query, then calculated per-tract demographic percentages. Generated a near table to measure distance from each LILA census block to the nearest farmers market, produced distance maps using XY to Line, and visualized results through histograms and summary statistics.
+
+**Tools Used:** ArcGIS Pro · Excel · Power Query · Census/TIGER Data · USDA Food Access Research Atlas
+
+**Methodology and Map Output:**
+
+<img width="419" height="311" alt="Screenshot 2026-03-16 152747" src="https://github.com/user-attachments/assets/231568b4-2229-4351-9241-e5aa3967d29d" /> <img width="436" height="323" alt="Screenshot 2026-03-16 152217" src="https://github.com/user-attachments/assets/ff3f9ac8-2fc2-4e90-acc0-a64fe8b76937" />
+
 
 
 ---
@@ -73,3 +76,5 @@ Open to GIS, sustainability, and environmental planning opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cade%20Canavan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cade-canavan-4520752b5)
 [![Email](https://img.shields.io/badge/Email-cadecanavan%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cadecanavan@gmail.com)
+
+
