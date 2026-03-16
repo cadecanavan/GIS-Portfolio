@@ -64,7 +64,6 @@ A collection of maps created throughout coursework and independent projects, sho
 | *Coming Soon* | Add your map title here | ArcGIS Pro |
 | *Coming Soon* | Add your map title here | ArcGIS Online |
 
-*To add maps: upload images to this repo and replace the rows above with `![Map Name](images/your-map.png)`*
 
 ---
 
