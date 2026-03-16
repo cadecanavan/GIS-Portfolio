@@ -5,7 +5,7 @@ Portfolio of GIS, geography, and sustainability projects showcasing spatial anal
 
 ## Projects
 
-###1. Community Preservation Act StoryMap
+### 1. Community Preservation Act StoryMap
 
 **Description:**An interactive StoryMap of over 100 geocoded Community Preservation Act Projects created for the City of Salem
 
