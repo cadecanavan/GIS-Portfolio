@@ -7,7 +7,7 @@ Portfolio of GIS, geography, and sustainability projects showcasing spatial anal
 
 ### 1. Community Preservation Act StoryMap
 
-**Description:**An interactive StoryMap of over 100 geocoded Community Preservation Act Projects created for the City of Salem
+**Description:** An interactive StoryMap of over 100 geocoded Community Preservation Act Projects created for the City of Salem
 
 **Tools used:** ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, Excel
 
