@@ -62,8 +62,6 @@ Analyzed spatial relationships between USDA-designated Low Income, Low Access (L
 
 **Tools Used:** ArcGIS Pro · Excel · Power Query · Census/TIGER Data · USDA Food Access Research Atlas
 
-**Methodology and Map Output:**
-
 <img width="419" height="311" alt="Screenshot 2026-03-16 152747" src="https://github.com/user-attachments/assets/231568b4-2229-4351-9241-e5aa3967d29d" /> <img width="436" height="323" alt="Screenshot 2026-03-16 152217" src="https://github.com/user-attachments/assets/ff3f9ac8-2fc2-4e90-acc0-a64fe8b76937" />
 
 
