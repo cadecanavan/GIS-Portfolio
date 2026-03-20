@@ -4,7 +4,7 @@
 
 Salem State University · May 2025 · GPA: 3.7 · *Magna Cum Laude*
 
-Geospatial analyst with hands-on experience in spatial data workflows, UAV-based remote sensing, and public-sector GIS. Comfortable across the full project lifecycle — from field data collection and processing to cartographic output and stakeholder delivery. Background spans urban tree inventory, community planning, and food systems analysis.
+Geospatial analyst with hands-on experience in spatial data workflows, UAV-based remote sensing, and public-sector GIS. Comfortable across the full project lifecycle, from field data collection and processing to cartographic output and stakeholder delivery. Background spans urban tree inventory, community planning, and food systems analysis.
 
 ---
 
@@ -23,13 +23,13 @@ Geospatial analyst with hands-on experience in spatial data workflows, UAV-based
 ## Projects
 
 ### UAV & AI Tree Canopy Health Analysis — Greenlawn Cemetery
+*Undergraduate Research — Salem State University SURF Program · Co-authored with Nicholas Geron, Ph.D.*
 
-Designed and executed a UAV-based spatial analysis workflow to assess tree health across an urban cemetery. Collected high-resolution multispectral imagery and processed it into orthomosaics, then applied AI-assisted image segmentation to delineate individual tree canopies. Generated NDVI rasters and a canopy height model to produce per-tree vegetation health metrics, supporting urban tree inventory and long-term management planning.
+Assesed urban tree health at Greenlawn Cemetery, a 55.8-acre arboretum in Salem, MA where many trees have fallen into poor condition. Collected multispectral UAV imagery across two flights, georeferenced with six ground control points, and processed into orthomosaics at 0.5m resolution. Applied Meta's Segment Anything Model (SAM) for canopy delineation — SAM covered 69% of canopy area but only 44% of total segments, leading to a hybrid AI-plus-manual workflow. Generated NDVI rasters and a canopy height model to classify per-tree health and flag trees of concern for removal or maintenance planning.
 
-**Tools:** ArcGIS Pro · UAV / Multispectral Imagery · AI Segmentation · NDVI · Canopy Height Modeling
+**Tools:** ArcGIS Pro · UAV / Multispectral Imagery · SAM (Meta) · NDVI · Canopy Height Modeling · ArcGIS DTM
 
-<img src="greenlawn_poster.png" alt="Greenlawn Cemetery UAV and NDVI analysis poster" width="500">
-<img src="greenlawn_barchart.png" alt="Tree health metrics bar chart" width="500">
+<img src="greenlawn_poster.png" alt="Greenlawn Cemetery UAV and NDVI analysis research poster" width="500"> <img src="greenlawn_barchart.png" alt="Tree health metrics bar chart" width="500">
 
 ---
 
@@ -55,8 +55,7 @@ Analyzed the spatial relationship between USDA-designated Low Income, Low Access
 
 **Tools:** ArcGIS Pro · Excel · Power Query · Census / TIGER Data · USDA Food Access Research Atlas
 
-<img src="farmersmarkets_map.png" alt="Greater Boston farmers markets and food access map" width="500">
-<img src="farmersmarkets_methods.png" alt="Food access analysis methods diagram" width="500">
+<img src="farmersmarkets_map.png" alt="Greater Boston farmers markets and food access map" width="500"> <img src="farmersmarkets_methods.png" alt="Food access analysis methods diagram" width="500">
 
 ---
 
