@@ -69,5 +69,16 @@ Analyzed spatial relationships between USDA-designated Low Income, Low Access (L
 
 ## Contact
 Open to GIS, sustainability, and environmental planning opportunities.  
-**Email:** _add your email_ · **LinkedIn:** _add your link_
+<!-- Contact / Social -->
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/cade-canavan-4520752b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <!-- Email -->
+          <a href="mailto:cadecanavan.com">
+            <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
+          </a>
+        </p>
+
 
