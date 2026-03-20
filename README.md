@@ -1,7 +1,7 @@
 
 # Cade Canavan — GIS Portfolio
 
-B.S. Geography, Concentration in Sustainability | Minor in Philosophy — Salem State University, May 2025 | GPA: 3.76/4.0  
+B.S. Geography, Concentration in Sustainability | Minor in Philosophy — Salem State University, May 2025 | GPA: 3.7/4.0  
 GIS Certificate | UAV/Drone Operations | Spatial Analysis & Data Visualization
 
 Passionate about applying geospatial tools to solve real-world environmental and community challenges.
@@ -84,17 +84,13 @@ Analyzed spatial relationships between USDA-designated Low Income, Low Access (L
 
 ---
 
+
+
 ## Contact
 Open to GIS, sustainability, and environmental planning opportunities.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cade-canavan-4520752b5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cadecanavan@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cade-canavan-4520752b5)
+&nbsp;&nbsp;
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadecanavan@gmail.com)
 
 
