@@ -13,7 +13,7 @@ Geospatial analyst with hands-on experience in spatial data workflows, UAV-based
 | Domain | Tools & Methods |
 |---|---|
 | **GIS Platforms** | ArcGIS Pro, ArcGIS Online, QGIS, ArcGIS StoryMaps |
-| **Spatial Analysis** | Vector & raster analysis, spatial joins, geocoding, near analysis, XY to Line |
+| **Spatial Analysis** | Vector & raster analysis, spatial joins, geocoding, near analysis, XY to Line, coordinate reference systems, projection management |
 | **Remote Sensing & UAV** | Multispectral imagery, orthomosaic generation, NDVI, canopy height modeling, image segmentation |
 | **Data & Visualization** | Excel, Power Query, cartographic design, demographic data aggregation |
 | **Data Sources** | U.S. Census / TIGER, USDA Food Access Research Atlas, MassGIS, primary field & UAV data collection, municipal datasets |
