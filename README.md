@@ -1,29 +1,46 @@
 
 # Cade Canavan — GIS Portfolio
 
-B.S. Geography, Concentration in Sustainability | Minor in Philosophy — Salem State University, May 2025 | GPA: 3.7  
+B.S. Geography, Concentration in Sustainability | Minor in Philosophy — Salem State University, May 2025 | GPA: 3.76/4.0  
 GIS Certificate | UAV/Drone Operations | Spatial Analysis & Data Visualization
 
 Passionate about applying geospatial tools to solve real-world environmental and community challenges.
 
 ---
 
+
 ## Skills & Tools
 
-**GIS & Spatial Analysis**  
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat&logo=esri&logoColor=white)
-![ArcGIS Online](https://img.shields.io/badge/ArcGIS%20Online-2C7AC3?style=flat&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![ArcGIS StoryMaps](https://img.shields.io/badge/StoryMaps-2C7AC3?style=flat&logo=esri&logoColor=white)  
+### GIS & Spatial Analysis
+<p>
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS%20Online-2C7AC3?style=flat&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/StoryMaps-2C7AC3?style=flat&logo=esri&logoColor=white" />
+</p>
+
 Spatial Analysis (Vector & Raster) · Spatial Joins · Geocoding · Remote Sensing · NDVI Analysis · Canopy Height Modeling
 
-**Remote Sensing & UAV**  
-![UAV/Drone Operations](https://img.shields.io/badge/UAV%20%2F%20Drone%20Ops-555555?style=flat)  
+---
+
+### Remote Sensing & UAV
+<p>
+  <img src="https://img.shields.io/badge/UAV%20%2F%20Drone%20Ops-555555?style=flat" />
+  <img src="https://img.shields.io/badge/Remote%20Sensing-4B8BBE?style=flat&logoColor=white" />
+</p>
+
 Multispectral Imagery · Orthomosaic Generation · Image Segmentation
 
-**Data & Design**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+---
+
+### Data & Design
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+</p>
+
 Data Aggregation & Visualization · Cartographic Design · Professional Writing
+
+
 
 ---
 
@@ -68,17 +85,16 @@ Analyzed spatial relationships between USDA-designated Low Income, Low Access (L
 ---
 
 ## Contact
-Open to GIS, sustainability, and environmental planning opportunities.  
-<!-- Contact / Social -->
+Open to GIS, sustainability, and environmental planning opportunities.
+
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/cade-canavan-4520752b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/cade-canavan-4520752b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Email -->
-          <a href="mailto:cadecanavan@gmail.com">
-            <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
-          </a>
-        </p>
+  <a href="mailto:cadecanavan@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 
